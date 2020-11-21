@@ -1,0 +1,5 @@
+name: allworld_reallytime
+version: 0.0.1
+author: gntodtndls156
+main: github.gntodtndls156.reallytime.Main
+api-version: 1.12.2

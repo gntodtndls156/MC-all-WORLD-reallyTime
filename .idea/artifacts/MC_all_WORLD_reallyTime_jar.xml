@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MC-all-WORLD-reallyTime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MC_all_WORLD_reallyTime_jar</output-path>
+    <root id="archive" name="MC-all-WORLD-reallyTime.jar">
+      <element id="module-output" name="MC-all-WORLD-reallyTime" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/SpigotServer/spigot-1.12.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
